@@ -15,13 +15,13 @@ With that to run the program give a right click. There you'll find a run as opti
 You'll find run as Java application and click it.
 The Program starts to run.
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoAlertPresentException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+     import org.openqa.selenium.By;
+     import org.openqa.selenium.NoAlertPresentException;
+     import org.openqa.selenium.WebDriver;
+     import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class Wikipedia {
+     public class Wikipedia {
 
 	public static void main(String[] args) throws NoAlertPresentException,InterruptedException  {
 		// TODO Auto-generated method stub
@@ -50,12 +50,12 @@ public class Wikipedia {
     The Program starts to run.
     
     import java.awt.Dimension;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
+    import org.openqa.selenium.WebDriver;
+    import org.openqa.selenium.chrome.ChromeDriver;
+    import org.openqa.selenium.remote.DesiredCapabilities;
 
 
-public class ResizeBrowser {
+    public class ResizeBrowser {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
